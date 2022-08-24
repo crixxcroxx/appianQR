@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "code": "SPEFY783946",
+      "description": "JDU Laptop",
+      "tag": "jdu-c4ca4238",
+      "serial": "098f6bcd4621d373cade4e832627b4f6",
+      "owner": "Cris Montajes",
+      "img": "https://raw.githubusercontent.com/crixxcroxx/appianQR/main/1661307710008.png"
+    },
+    {
+      "code": "SPEFY352394",
+      "description": "Laptop Charger",
+      "tag": "jdu-2627b4f6",
+      "serial": "f899139df5e1059396431415e770c6dd",
+      "owner": "Cris Montajes",
+      "img": "https://raw.githubusercontent.com/crixxcroxx/appianQR/main/1661307797910.png"
+    },
+    {
+      "code": "SPEFY164683",
+      "description": "Kensington Lock",
+      "tag": "jdu-d82eb3c5",
+      "serial": "a9b7ba70783b617e9998dc4dd82eb3c5",
+      "owner": "Cris Montajes",
+      "img": "https://raw.githubusercontent.com/crixxcroxx/appianQR/main/1661307913309.png"
+    },
+    {
+      "code": "SPEFY584687",
+      "description": "Mouse",
+      "tag": "jdu-25faec4b",
+      "serial": "b7a782741f667201b54880c925faec4b",
+      "owner": "Cris Montajes",
+      "img": "https://raw.githubusercontent.com/crixxcroxx/appianQR/main/1661307958692.png"
+    },
+    {
+      "code": "SPEFY264813",
+      "description": "Headset",
+      "tag": "jdu-5b16c65b",
+      "serial": "14ee22eaba297944c96afdbe5b16c65b",
+      "owner": "Cris Montajes",
+      "img": "https://raw.githubusercontent.com/crixxcroxx/appianQR/main/1661308013924.png"
+    }
+  ]
+}
